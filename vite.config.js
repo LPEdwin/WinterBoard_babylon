@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({ 
-    base: '/WinterBoard_babylon/',
+    base: '/Winterboard_Babylon/',
     build: { target: 'es2022' },
 })
